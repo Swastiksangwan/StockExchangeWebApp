@@ -34,10 +34,11 @@ Users can buy and sell stocks, track their portfolio, and visualize market data 
 
 
 ## Project Structure
+
+```
 StockExchangeWebApp
 │
 ├── backend
-│   │
 │   ├── src
 │   │   ├── models
 │   │   │   ├── Account.java
@@ -55,7 +56,6 @@ StockExchangeWebApp
 │       └── compiled class files
 │
 ├── frontend
-│   │
 │   ├── index.html
 │   ├── style.css
 │   ├── script.js
@@ -63,6 +63,7 @@ StockExchangeWebApp
 │
 ├── .gitignore
 └── README.md
+```
 
 
 
